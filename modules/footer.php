@@ -1,7 +1,7 @@
 </div>
 		<footer id="footer">
 			<div id="">
-			<p>&copy; 2020 Student Attendance System <br>
+			<p>&copy; VIT-AP university, Amaravati <br>
 
 			
 				
