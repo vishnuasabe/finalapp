@@ -8,7 +8,7 @@
 			</p>
 			</div>
 			<div id="links">
-				<p>This app is created by Vishnu Vitthal Asabe (vitthal.18bce7161@vitap.ac.in)</p>
+				<h5>This site is created by Vishnu Vitthal Asabe (vitthal.18bce7161@vitap.ac.in)</5>
 			</div>
 			
 		</footer>
@@ -17,10 +17,10 @@
 			padding-top: 10px;
 			position: fixed;
   			bottom: 0;
-  			background-color: #373435;
+  			background-color: #861414;
   			width: 100%;
   			text-align: center; 
-  			color: #861414;
+  			color: white;
   			padding-bottom: 10px;
 
 			}	
