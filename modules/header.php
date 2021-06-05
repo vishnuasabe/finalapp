@@ -17,12 +17,12 @@
   	<div id="wrapper">
     <div class="overlay"></div>
     
-    <h1>Student Attendance Management System</h1>
+    <h1>VIT-AP Student Attendance Portal</h1>
     <style>
       h1{
         margin-top:0;
         padding: 20px;
-        background-color: #2fa4e7;
+        background-color: #861414;
         color:white;
         text-align: center;
       }
