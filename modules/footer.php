@@ -1,14 +1,14 @@
 </div>
 		<footer id="footer">
 			<div id="">
-			<p>&copy; VIT-AP university, Amaravati <br>
+			<p>&copy; SPPU University Pune <br>
 
 			
 				
 			</p>
 			</div>
 			<div id="links">
-				<h5>This site is created by Vishnu Vitthal Asabe (vitthal.18bce7161@vitap.ac.in)</5>
+				<h5>This site is created by Omkar Pendpale (omkarpendpale001@gmail.com)</5>
 			</div>
 			
 		</footer>
