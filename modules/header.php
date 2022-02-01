@@ -17,7 +17,7 @@
   	<div id="wrapper">
     <div class="overlay"></div>
     
-    <h1>VIT-AP Student Attendance Portal</h1>
+    <h1>JSPM Student Attendance Portal</h1>
     <style>
       h1{
         margin-top:0;
