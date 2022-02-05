@@ -372,8 +372,8 @@ CREATE TABLE IF NOT EXISTS `subject` (
 --
 
 INSERT INTO `subject` (`id`, `name`) VALUES
-(1, 'TOC'),
-(2, 'ISEE'),
+(1, 'SOM'),
+(2, 'JAVA'),
 (3, 'CN'),
 (4, 'DBMS'),
 (5, 'SEPM');
