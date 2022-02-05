@@ -9,10 +9,10 @@
 
 	// remote Database connection
 	
-	$databaseHost = 'remotemysql.com';
-	$databaseName = 'scsSFmGmWh';
-	$databaseUsername = 'scsSFmGmWh';
-	$databasePassword = 'M7o0atwH3V';
+	$databaseHost = 'db4free.net';
+	$databaseName = 'attendance9999';
+	$databaseUsername = 'omkarpendpale001';
+	$databasePassword = 'Test@126';
 	
 	try {
 		
